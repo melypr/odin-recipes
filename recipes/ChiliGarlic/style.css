@@ -12,6 +12,7 @@ img {
 div {
     line-height: 0.5em;
     font-size: 18px;
+    font-weight: bold;
 }
 
 h2 {
@@ -19,5 +20,15 @@ h2 {
 }
 
 ul {
+    font-size: 18px;
+}
+
+ol {
+    font-size: 18px;
+    width: 400px;
+}
+
+.Note {
+    width: 400px;
     font-size: 18px;
 }
