@@ -1,0 +1,37 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+dev {
+    float: left;
+    font-size: 20px;
+}
+
+.Ingredients {
+    padding-top: 50px;
+}
+
+.Directions {
+    width: 500px;
+    text-align: left;
+    height: 20px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.image {
+    padding-top: 100px;
+    padding-left: 100px;
+}
